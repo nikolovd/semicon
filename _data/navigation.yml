@@ -1,7 +1,9 @@
 # main links
 main:
-  - title: "About"
+  - title: "За мен"
     url: /about/
+  #- title: "404"
+  #  url: /404.html/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
