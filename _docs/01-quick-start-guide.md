@@ -32,17 +32,11 @@ If you're running Jekyll v3.5+ and self-hosting you can quickly install the them
 **Note:** The theme uses the [jekyll-include-cache](https://github.com/benbalter/jekyll-include-cache) plugin which will need to be installed in your `Gemfile` and added to the `plugins` array of `_config.yml`. Otherwise you'll throw `Unknown tag 'include_cached'` errors at build.
 {: .notice--warning}
 
-### Gem-based method
+### Ресурси по дисциплината 
 
-With Gem-based themes, directories such as the `assets`, `_layouts`, `_includes`, and `_sass` are stored in the theme’s gem, hidden from your immediate view. This allows for easier installation and updating as you don't have to manage any of the theme files. 
-
-To install as a Gem-based theme:
-
-1. Add the following to your `Gemfile`:
-
-   ```ruby
-   gem "minimal-mistakes-jekyll"
-   ```
+Основна литература
+1. [Христов, М., Т.Василева, Е.Манолов, Полупроводникови елементи, С., Нови знания, 2007.](https://github.com/benbalter/jekyll-include-cache)
+2. Цанов, М., Ф. Копаранов, И. Фурнаджиев. Ръководство за лабораторни упражнения по полупроводникови елементи. Нови знания, 2008.
 
 2. Fetch and update bundled gems by running the following [Bundler](http://bundler.io/) command:
 
