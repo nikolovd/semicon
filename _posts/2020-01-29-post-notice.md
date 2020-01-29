@@ -10,21 +10,8 @@ tags:
 **Дата за изпит:** 31.01.2020 г., час 08:00, зала 1154 
 {: .notice}
 
-**Primary Notice:** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. [Praesent libero](#). Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet.
-{: .notice--primary}
-
-<div class="notice--primary" markdown="1">
-**Primary Notice with code block:** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. [Praesent libero](#). Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet.
-
-```html
-<html>
-  <body>Проба за дата за изпит.<body>
-</html>
-```
-</div>
-
-**Info Notice:** Lorem ipsum dolor sit amet, [consectetur adipiscing elit](#). Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet.
-{: .notice--info}
+**Важи за:** студенти редовно обучение през учебната година 2019 - 2020 във факултет Автоматика и за семестриално завършили студенти. 
+{: .notice--warning}
 
 **Warning Notice:** Lorem ipsum dolor sit amet, consectetur adipiscing elit. [Integer nec odio](#). Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet.
 {: .notice--warning}
