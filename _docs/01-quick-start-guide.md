@@ -47,7 +47,7 @@ To update the theme run `bundle update`.
 
 Крайната оценка се формира по точкова система като сума от точките, събрани през семестъра и по време на заключителния изпитен тест. Тестът през семестъра носи максимално 24 точки, а заключителният тест - максимално 36 точки. Максимално възможният сбор от точки е 60. При резултати, превишаващи 80 % от максималния брой точки се получава отлична оценка, а при резултати по-ниски от 40 % от максималния – слаба оценка.
 
-Крайната оценка се изчислява по следната таблица:
+## Скала на оценяване 
 
 | Точки (N) | Оценка |
 |:-------:|:--------:|
@@ -56,25 +56,6 @@ To update the theme run `bundle update`.
 | от 31 до 40 | Добър (4) | 
 | от 18 до 30 | Среден (3) |
 | от 0 до 18 | Слаб (2) |
-
-<figure>
-  <img src="{{ '/assets/images/mm-gh-pages.gif' | relative_url }}" alt="creating a new branch on GitHub">
-</figure>
-
-You can also install the theme by copying all of the theme files[^structure] into your project.
-
-To do so fork the [Minimal Mistakes theme](https://github.com/mmistakes/minimal-mistakes/fork), then rename the repo to **USERNAME.github.io** --- replacing **USERNAME** with your GitHub username.
-
-<figure>
-  <img src="{{ '/assets/images/mm-theme-fork-repo.png' | relative_url }}" alt="fork Minimal Mistakes">
-</figure>
-
-**GitHub Pages Alternatives:** Looking to host your site for free and install/update the theme painlessly? [Netlify][netlify-jekyll], [GitLab Pages][gitlab-jekyll], and [Continuous Integration (CI) services][ci-jekyll] have you covered. In most cases all you need to do is connect your repository to them, create a simple configuration file, and install the theme following the [Ruby Gem Method](#ruby-gem-method) above.
-{: .notice--info}
-
-[netlify-jekyll]: https://www.netlify.com/blog/2015/10/28/a-step-by-step-guide-jekyll-3.0-on-netlify/
-[gitlab-jekyll]: https://about.gitlab.com/2016/04/07/gitlab-pages-setup/
-[ci-jekyll]: https://jekyllrb.com/docs/continuous-integration/
 
 ### Remove the Unnecessary
 

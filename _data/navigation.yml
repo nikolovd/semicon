@@ -16,13 +16,15 @@ main:
   #   url: /sitemap/
 
 docs:
-  - title: Getting Started
+  - title: За дисциплината
     children:
-      - title: "Quick-Start Guide"
+      - title: "Учебна програма"
         url: /docs/quick-start-guide/
-      - title: "Structure"
+      - title: "Лекции"
         url: /docs/structure/
-      - title: "Installation"
+      - title: "Лабораторни упражнения"
         url: /docs/installation/
-      - title: "Upgrading"
+      - title: "Изпит"
         url: /docs/upgrading/
+      - title: "Самоподготовка"
+         url: /docs/configuration/
