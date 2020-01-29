@@ -16,7 +16,14 @@ Minimal Mistakes has been developed as a [Gem-based theme](http://jekyllrb.com/d
 
 [![Support via PayPal](https://cdn.jsdelivr.net/gh/twolfson/paypal-github-button@1.0.0/dist/button.svg)](https://www.paypal.me/mmistakes)
 
-## Installing the theme
+## Хорариум
+
+| Priority apples | Second priority | Third priority |
+|-------|--------|---------|
+| ambrosia | gala | red delicious |
+| pink lady | jazz | macintosh |
+| honeycrisp | granny smith | fuji |
+
 
 If you're running Jekyll v3.5+ and self-hosting you can quickly install the theme as a Ruby gem.
 
