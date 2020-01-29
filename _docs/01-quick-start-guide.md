@@ -8,6 +8,8 @@ redirect_from:
 toc: true
 ---
 
+Целта на учебната дисциплина е студентите да изучат и да могат да прилагат основните полупроводникови елементи, техните еквивалентни схеми, областите им на приложение, способите за осигуряване на нормален режим на работа и в съответствие със своите потребности и интереси да придобиват нови знания и възможности в тази предметна област. 
+
 Minimal Mistakes has been developed as a [Gem-based theme](http://jekyllrb.com/docs/themes/) for easier use, and 100% compatible with GitHub Pages when used as a remote theme.
 
 **If you enjoy this theme, please consider [supporting me](https://www.paypal.me/mmistakes) for developing and maintaining it.**
