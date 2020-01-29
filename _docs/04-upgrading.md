@@ -2,7 +2,7 @@
 title: "Изпит"
 permalink: /docs/upgrading/
 excerpt: "Instructions and suggestions for upgrading the theme."
-last_modified_at: 2018-11-25T19:38:20-05:00
+last_modified_at: 2020-01-25T07:38:20-05:00
 toc: true
 ---
 
