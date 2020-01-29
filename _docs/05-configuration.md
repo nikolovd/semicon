@@ -1,5 +1,5 @@
 ---
-title: "Самоподготовка"
+title: "Изпит1"
 permalink: /docs/configuration/
 excerpt: "Settings for configuring and customizing the theme."
 last_modified_at: 2019-10-04T10:54:48-04:00
