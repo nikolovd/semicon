@@ -20,10 +20,12 @@ Minimal Mistakes has been developed as a [Gem-based theme](http://jekyllrb.com/d
 
 | Вид занятия | Семестър | Хорариум, ч. |
 |-------|--------|---------|
-| Лекции | III | red delicious |
-| Лабораторни упражнения | III | macintosh |
-| Самоподготовка | III | fuji |
-| Форма на контрол изпит | III | 
+|:-:|:-:|:-:|
+| Лекции | III | 45 |
+| Лабораторни упражнения | III | 30 |
+| Самоподготовка | III | 75 |
+| Форма на контрол изпит | III |  |
+
 
 
 If you're running Jekyll v3.5+ and self-hosting you can quickly install the theme as a Ruby gem.
