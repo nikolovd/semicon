@@ -18,11 +18,12 @@ Minimal Mistakes has been developed as a [Gem-based theme](http://jekyllrb.com/d
 
 ## Хорариум
 
-| Priority apples | Second priority | Third priority |
+| Вид занятия | Семестър | Хорариум, ч. |
 |-------|--------|---------|
-| ambrosia | gala | red delicious |
-| pink lady | jazz | macintosh |
-| honeycrisp | granny smith | fuji |
+| Лекции | III | red delicious |
+| Лабораторни упражнения | III | macintosh |
+| Самоподготовка | III | fuji |
+| Форма на контрол изпит | III | 
 
 
 If you're running Jekyll v3.5+ and self-hosting you can quickly install the theme as a Ruby gem.
