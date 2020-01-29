@@ -20,21 +20,7 @@ toc: true
 | Форма на контрол изпит | III |  |
 | Всичко | III | 150 |
 
-
-
-If you're running Jekyll v3.5+ and self-hosting you can quickly install the theme as a Ruby gem.
-
-[^structure]: See [**Structure** page]({{ "/docs/structure/" | relative_url }}) for a list of theme files and what they do.
-
-**ProTip:** Be sure to remove `/docs` and `/test` if you forked Minimal Mistakes. These folders contain documentation and test pages for the theme and you probably don't want them littering up your repo.
-{: .notice--info}
-
-**Note:** The theme uses the [jekyll-include-cache](https://github.com/benbalter/jekyll-include-cache) plugin which will need to be installed in your `Gemfile` and added to the `plugins` array of `_config.yml`. Otherwise you'll throw `Unknown tag 'include_cached'` errors at build.
-{: .notice--warning}
-
-### Ресурси по дисциплината 
-
-Основна литература
+### Основна литература
 1. [Христов, М., Т.Василева, Е.Манолов, Полупроводникови елементи, С., Нови знания, 2007.](http://81.161.254.17/EOSWeb/OPAC/TitleView/CompleteDisplay.aspx?FromOPAC=true&DbCode=0&PatronCode=0&Language=bulgarian&RwSearchCode=0&WordHits=%u0435%u043B%u0435%u043C%u0435%u043D%u0442%u0438%7C%u043F%u043E%u043B%u0443%u043F%u0440%u043E%u0432%u043E%u0434%u043D%u0438%u043A%u043E%u0432%u0438%7C%u043F%u043E%u043B%u0443%u043F%u0440%u043E%u0432%u043E%u0434%u043D%u0438%u043A%u043E%u0432%u0430&BibCodes=5027290)
 2. [Цанов, М., Ф. Копаранов, И. Фурнаджиев. Ръководство за лабораторни упражнения по полупроводникови елементи. Нови знания, 2008.](http://81.161.254.17/EOSWeb/OPAC/TitleView/CompleteDisplay.aspx?FromOPAC=true&DbCode=0&PatronCode=0&Language=bulgarian&RwSearchCode=0&WordHits=%u0435%u043B%u0435%u043C%u0435%u043D%u0442%u0438%7C%u043F%u043E%u043B%u0443%u043F%u0440%u043E%u0432%u043E%u0434%u043D%u0438%u043A%u043E%u0432%u0438%7C%u043F%u043E%u043B%u0443%u043F%u0440%u043E%u0432%u043E%u0434%u043D%u0438%u043A%u043E%u0432%u0430&BibCodes=15025000)
 
@@ -52,41 +38,24 @@ If you're running Jekyll v3.5+ and self-hosting you can quickly install the them
 
 To update the theme run `bundle update`.
 
-### Remote theme method
+### Допълнителна литература
 
-Remote themes are similar to Gem-based themes, but do not require `Gemfile` changes or whitelisting making them ideal for sites hosted with GitHub Pages.
 
-To install as a remote theme:
+### Интернет ресурси
 
-1. Create/replace the contents of your `Gemfile` with the following:
+## Оценяване
 
-   ```ruby
-   source "https://rubygems.org"
+Крайната оценка се формира по точкова система като сума от точките, събрани през семестъра и по време на заключителния изпитен тест. Тестът през семестъра носи максимално 24 точки, а заключителният тест - максимално 36 точки. Максимално възможният сбор от точки е 60. При резултати, превишаващи 80 % от максималния брой точки се получава отлична оценка, а при резултати по-ниски от 40 % от максималния – слаба оценка.
 
-   gem "github-pages", group: :jekyll_plugins
-   ```
+Крайната оценка се изчислява по следната таблица:
 
-2. Add `jekyll-include-cache` to the `plugins` array of your `_config.yml`.
-
-3. Fetch and update bundled gems by running the following [Bundler](http://bundler.io/) command:
-
-   ```bash
-   bundle
-   ```
-
-4. Add `remote_theme: "mmistakes/minimal-mistakes@4.18.1"` to your `_config.yml` file. Remove any other `theme:` or `remote_theme:` entry.
-
-You may also optionally specify a branch, [tag](https://github.com/mmistakes/minimal-mistakes/tags), or commit to use by appending an @ and the Git ref (e.g., `mmistakes/minimal-mistakes@4.9.0` or `mmistakes/minimal-mistakes@bbf3cbc5fd64a3e1885f3f99eb90ba92af84063d`). This is useful when rolling back to older versions of the theme. If you don't specify a Git ref, the latest on `master` will be used.
-
-**Looking for an example?** Fork the [Minimal Mistakes remote theme starter](https://github.com/mmistakes/mm-github-pages-starter) for the quickest method of getting a GitHub Pages hosted site up and running. Replace sample content with your own and configure as needed.
-{: .notice--info}
-
----
-
-**Note:** Your Jekyll site should be viewable immediately at <http://USERNAME.github.io>. If it's not, you can force a rebuild by **Customizing Your Site** (see below for more details).
-{: .notice--warning}
-
-If you're hosting several Jekyll based sites under the same GitHub username you will have to use Project Pages instead of User Pages. Essentially you rename the repo to something other than **USERNAME.github.io** and create a `gh-pages` branch off of `master`. For more details on how to set things up check [GitHub's documentation](https://help.github.com/articles/user-organization-and-project-pages/).
+| Точки (N) | Оценка |
+|:-------:|:--------:|
+| от 49 до 60 | Отличен (6)  | 
+| от 41 до 48 | Много добър (5) |
+| от 31 до 40 | Добър (4) | 
+| от 18 до 30 | Среден (3) |
+| от 0 до 18 | Слаб (2) |
 
 <figure>
   <img src="{{ '/assets/images/mm-gh-pages.gif' | relative_url }}" alt="creating a new branch on GitHub">
