@@ -14,7 +14,7 @@ toc: true
 
 
 - [2018 Вариант 1](https://github.com/nikolovd/semicon/blob/master/assets/files/PPE_FA_redovno_18_v1.pdf)
-- [2018 Вариант 2](https://github.com/nikolovd/semicon/blob/master/assets/files/PPE_FA_redovno_18_v1.pdf)
+- [2018 Вариант 4](https://github.com/nikolovd/semicon/blob/master/assets/files/PPE_FA_redovno_18_v4.pdf)
 - [2017 Вариант 1](https://github.com/nikolovd/semicon/blob/master/assets/files/PPE_FA_redovno_17_v1.pdf)
 - [2017 Вариант 2](https://github.com/nikolovd/semicon/blob/master/assets/files/PPE_FA_redovno_17_v1_1.pdf)
 
