@@ -6,4 +6,17 @@ last_modified_at: 2018-11-25T19:38:20-05:00
 toc: true
 ---
 
-If you're using the [Ruby Gem]({{ "/docs/quick-start-guide/#ruby-gem-method" | relative_url }}) or [remote theme]({{ "/docs/quick-start-guide/#github-pages-method" | relative_url }}) versions of Minimal Mistakes, upgrading is fairly painless.
+## Провеждане
+
+Изпитът се провежда в рамките на 1 час. Изпитния тест се състои от 10 въпроса 
+
+## Примерни тестове от минали години
+
+
+- [2018 Вариант 1]()
+- [2017 Вариант 1]()
+
+## Помощни материали
+
+
+- [Бланка за отговори]()  
