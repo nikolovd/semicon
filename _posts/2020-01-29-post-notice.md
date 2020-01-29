@@ -1,5 +1,5 @@
 ---
-title: "Post: Notice"
+title: "Зимна изпитна сесия 2020 "
 categories:
   - Post Formats
 tags:
@@ -22,7 +22,7 @@ When using Kramdown `{: .notice}` can be added after a sentence to assign the `.
 
 ```html
 <html>
-  <body>Some body.<body>
+  <body>Проба за дата за изпит.<body>
 </html>
 ```
 </div>
