@@ -1,5 +1,7 @@
 # main links
 main:
+  - title: "За дисциплината"
+    url: /docs/quick-start-guide/
   - title: "За мен"
     url: /about/
   #- title: "404"
