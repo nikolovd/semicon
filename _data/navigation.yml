@@ -16,7 +16,7 @@ main:
   #   url: /sitemap/
 
 docs:
-  - title: За дисциплината
+  - title: "За дисциплината"
     children:
       - title: "Учебна програма"
         url: /docs/quick-start-guide/
