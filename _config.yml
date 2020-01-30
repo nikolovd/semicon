@@ -20,9 +20,9 @@ title                    : "Полупроводникови елементи"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Димтър Николов"
-description              : "Уеб-сайт на дисциплината Полупроводникови елемети"
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
+description              : &description "Уеб-сайт на дисциплината Полупроводникови елемети"
+url                      : https://nikolovd.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "/semicon" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
@@ -65,14 +65,14 @@ reCaptcha:
   secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
-search                   : # true, false (default)
-search_full_content      : # true, false (default)
-search_provider          : # lunr (default), algolia, google
+search                   : true # true, false (default)
+search_full_content      : true # true, false (default)
+search_provider          : algolia # lunr (default), algolia, google
 algolia:
-  application_id         : # YOUR_APPLICATION_ID
-  index_name             : # YOUR_INDEX_NAME
-  search_only_api_key    : # YOUR_SEARCH_ONLY_API_KEY
-  powered_by             : # true (default), false
+  application_id         : 9S1ZKIJALZ # YOUR_APPLICATION_ID
+  index_name             : dev_GH_SEMICON # YOUR_INDEX_NAME
+  search_only_api_key    : 2cb6255d0f4c29e0c34bc54b17c653d1 # YOUR_SEARCH_ONLY_API_KEY
+  powered_by             : true # true (default), false
 google:
   search_engine_id       : # YOUR_SEARCH_ENGINE_ID
   instant_search         : # false (default), true
@@ -84,9 +84,9 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : &twitter "nikolovdimitar"
 facebook:
-  username               :
+  username               : &facebook "dimityr.nikolov"
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Димитър Николов"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/IMG-7-05.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "кат. Елетронна техника, ФЕТТ, ТУ-София."
   location         : "София, България"
   email            : "d_nikolov@tu-sofia.bg"
@@ -121,7 +121,7 @@ author:
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
+      url: "https://twitter.com/nikolovdimitar"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
@@ -130,7 +130,7 @@ author:
       # url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://www.instagram.com/dimitarnnikolov"
 
 # Site Footer
 footer:
@@ -152,7 +152,7 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url:
+      url: "https://www.instagram.com/dimitarnnikolov"
 
 
 # Reading Files
@@ -212,6 +212,7 @@ kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
 
+
 # Collections
 collections:
   docs:
@@ -226,6 +227,7 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
+
 
 # Defaults
 defaults:
