@@ -60,21 +60,3 @@ toc: true
 | от 31 до 40 | Добър (4) | 
 | от 18 до 30 | Среден (3) |
 | от 0 до 18 | Слаб (2) |
-
-### Remove the Unnecessary
-
-If you forked or downloaded the `minimal-mistakes-jekyll` repo you can safely remove the following folders and files:
-
-- `.editorconfig`
-- `.gitattributes`
-- `.github`
-- `/docs`
-- `/test`
-- `CHANGELOG.md`
-- `minimal-mistakes-jekyll.gemspec`
-- `README.md`
-- `screenshot-layouts.png`
-- `screenshot.png`
-
-**Note:** If forking the theme be sure to update `Gemfile` as well. The one found at the root of the project is for building the theme's Ruby gem and is missing dependencies. To properly setup a [`Gemfile`](https://github.com/mmistakes/minimal-mistakes/blob/master/docs/Gemfile) with the theme, consult the "[Install Dependencies](https://mmistakes.github.io/minimal-mistakes/docs/installation/#install-dependencies)" section.
-{: .notice--warning}
