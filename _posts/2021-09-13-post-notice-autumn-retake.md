@@ -11,7 +11,7 @@ tags:
 Изпитът ще започне на 20.09.2021 г. от 09:30 ч.
 {: .notice}
 
-**Място:** Необходима е предварителна регистрация на Google Classroom joining [адрвс](https://classroom.google.com/c/MzkwMTUzNDU1ODU1?cjc=r7mddte) 
+**Място:** Необходима е предварителна регистрация на [Google Classroom joining code](https://classroom.google.com/c/MzkwMTUzNDU1ODU1?cjc=r7mddte) 
 {: .notice--warning}
 
 **Важи за:** студенти редовно обучение и от минали години с изпит по ППЕ и Електрониа.
