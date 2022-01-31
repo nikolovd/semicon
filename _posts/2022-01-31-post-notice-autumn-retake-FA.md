@@ -11,20 +11,22 @@ tags:
 Изпитът ще започне на 10.05.2022 г. от 09:00 ч.
 {: .notice}
 
-**Място:** Необходима е предварителна регистрация на [Google Classroom joining link](https://classroom.google.com/c/MjI2NjY5OTQxNDc2?cjc=fvdijw2)
-<iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAN__tkhlLdUNk82VDRSVDFLWkxMQ000U05XWVhNUlo0OC4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
+**Място:** Необходима е предварителна регистрация в приложената форма
+<iframe width="640px" height= "960px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAN__tkhlLdUNk82VDRSVDFLWkxMQ000U05XWVhNUlo0OC4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
 
 {: .notice--warning}
 
-**Важи за:** студенти от факултет МФ, дисциплина Електроника.
+**Важи за:** студенти от факултет ФА, дисциплина Полупроводникови елементи.
 {: .notice--warning}
 
-**Изисквания:** за редовни студенти - заверен семестър. Закъснели студенти няма да се допускат до изпита. За студенти от минали години е необходим изпитен протокол
+**Изисквания:** за студенти от минали години. Закъснели студенти няма да се допускат до изпита. За студенти от минали години е необходим изпитен протокол
 {: .notice--danger}
 
 **I. ДАТА И МЯСТО**
 
-Изпитът ще се проведе онлайн в платофрмата Google Classroom и Google Meet.
+Изпитът ще се проведе в зависимост от наложените противоепидемиелогични мерки, ако мерките позволяват изпитът ше бъде в присъствена форма. 
+
+При необходимост изпитът ще се проведе онлайн в платофрмата Google Classroom и Google Meet.
 
 По време на изпита трябва да се осигури видео връзка с всеки студент. Информация относно видео връзката ще бъде публикувана в платформата Google Classroom.
 
@@ -77,7 +79,7 @@ tags:
 
 **IV. ВАЖНО**
 
-Влезте в Classroom-а на ППЕ най-малко 15 минути по-рано.
+Влезте в Classroom-а на ПЕ най-малко 15 минути по-рано.
 
 Изберете "Работа в клас" ("Classwork"), за да следите кога ще се появи "Покана за видео връзка" и след това заданието ви с "Изпит ППЕ" съгласно горния времеви график.
 
