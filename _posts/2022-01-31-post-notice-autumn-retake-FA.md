@@ -1,5 +1,5 @@
 ---
-title: " Ликвидационна изпитна сесия 2021 - МФ"
+title: " Ликвидационна изпитна сесия 2021 - ФА/АУИТ"
 categories:
   - Post Formats
 tags:
@@ -7,11 +7,13 @@ tags:
   - notice
 --- 
 
-**Дата за изпит:**  28.09.2021, дистанционно провеждане в електронна среда на следния адрес. Начало на връзката за настройки и доуточнения на 28.09.2021 г. от 13:00 ч.
-Изпитът ще започне на 28.09.2021 г. от 13:30 ч.
+**Дата за изпит:**  10.05.2022
+Изпитът ще започне на 10.05.2022 г. от 09:00 ч.
 {: .notice}
 
-**Място:** Необходима е предварителна регистрация на [Google Classroom joining link](https://classroom.google.com/c/MjI2NjY5OTQxNDc2?cjc=fvdijw2) 
+**Място:** Необходима е предварителна регистрация на [Google Classroom joining link](https://classroom.google.com/c/MjI2NjY5OTQxNDc2?cjc=fvdijw2)
+<iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAN__tkhlLdUNk82VDRSVDFLWkxMQ000U05XWVhNUlo0OC4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
+
 {: .notice--warning}
 
 **Важи за:** студенти от факултет МФ, дисциплина Електроника.
