@@ -11,16 +11,16 @@ tags:
 Изпитът ще започне на 10.05.2022 г. от 09:00 ч.
 {: .notice}
 
-**Място:** Необходима е предварителна регистрация в приложената форма
-<iframe width="640px" height= "960px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAN__tkhlLdUNk82VDRSVDFLWkxMQ000U05XWVhNUlo0OC4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
-
-{: .notice--warning}
-
 **Важи за:** студенти от факултет ФА, дисциплина Полупроводникови елементи.
 {: .notice--warning}
 
 **Изисквания:** за студенти от минали години. Закъснели студенти няма да се допускат до изпита. За студенти от минали години е необходим изпитен протокол
 {: .notice--danger}
+
+**Място:** Необходима е предварителна регистрация в приложената форма, с цел разпрострянване на информация за начина и мястото на провеждане на изпита.
+{: .notice--warning}
+
+<iframe width="640px" height= "960px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAN__tkhlLdUNk82VDRSVDFLWkxMQ000U05XWVhNUlo0OC4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
 
 **I. ДАТА И МЯСТО**
 
