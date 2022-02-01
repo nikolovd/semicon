@@ -20,7 +20,7 @@ tags:
 **Място:** Необходима е предварителна регистрация в приложената форма, с цел разпрострянване на информация за начина и мястото на провеждане на изпита. Изпитът ще се проведе в зависимост от наложените противоепидемиелогични мерки, ако мерките позволяват, изпитът ще се проведе в присъствена форма.
 {: .notice--warning}
 
-<iframe width="640px" height= "960px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAN__tkhlLdUNk82VDRSVDFLWkxMQ000U05XWVhNUlo0OC4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
+<iframe width="640px" height= "960px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=wLXuf_Q0S0qMwOWfBpIBVliIIPvp6P5GjTJQ_Ah9gppUMkZLQkg1UkJIUFY4T01aOUlKSzkwSEhUMy4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
 
 **I. ДАТА И МЯСТО**
 
